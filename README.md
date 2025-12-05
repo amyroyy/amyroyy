@@ -37,5 +37,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&duration=6000&pause=1500&color=FF69B4&center=true&vCenter=true&width=960&lines= +Every+bug+is+a+lesson,+every+project+is+growth+" alt="Cute quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&duration=6000&pause=1500&color=FF69B4&center=true&vCenter=true&width=960&lines=  +Every+bug+is+a+lesson,+every+project+is+growth+" alt="Cute quote" />
 </p>
