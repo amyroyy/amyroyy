@@ -21,22 +21,6 @@
 
 ---
 
-### 🎀 Tech Stack & Tools  
-<p align="center">
-  <img src="https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-FFC0CB?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-FFC0CB?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-FFB6C1?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-FF69B4?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</p>
-
----
-
 ### 🌸 Projects & Works  
 - 💎 **Secure Login System** – Pretty & secure authentication system  
 - 🎀 **AMYROY’s Calculator** – Aesthetic web calculator with multiple cute themes  
