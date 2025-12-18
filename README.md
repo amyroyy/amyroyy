@@ -8,8 +8,8 @@
 ---
 
 ###  About Me 
-- Passionate about **AI, and System Design**
-- Exploring **C, Python, and Machine Learning**   
+- **Data Science and Data Analysis using Python from IBM**
+- Exploring **C, Python, AI and Machine Learning**   
 - 📂 Sharing my journey via **open-source contributions**    
 
 <p align="center">
