@@ -3,13 +3,13 @@
   <span style="color:#FF69B4; font-family: 'Pacifico', cursive;">Hey there, I'm Amrita Roy</span>
 </h1>
 
-<h3 align="center" style="color:#FFB6C1;"> Aspiring AI & ML Engineer |  Student @IILM UNIVERSITY </h3>
+<h3 align="center" style="color:#FFB6C1;"> CS Student |  Student @IILM UNIVERSITY </h3>
 
 ---
 
 ###  About Me 
 - **Data Science and Data Analysis using Python from IBM**
-- Exploring **C, Python, AI and Machine Learning**   
+- Exploring **C++, Python, Cloud Computing**   
 - 📂 Sharing my journey via **open-source contributions**    
 
 <p align="center">
